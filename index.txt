@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+"http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>index.html</title>
+<div align=center>
+<img src="http://www.paveinternships.com/old/wp-content/uploads/2015/12/Corporate_Lawyer.jpg" alt="Corporate_Lawyer">
+</div>
+<style type="text/css">
+P {font-family:Arial}
+BODY {background-color:Brown}
+</style>
+<div align=center>
+<h1>Corporate Law</h1>
+<img src="Corporate_Lawyer.jpg" >
+</div>
+<p>
+Corporate Law is essentially law that specializes in the legal attributes of a corporation's operations such as business contracts.
+People within this field of law are required to execute many duties such as:
+ <ul>
+ <li>Being able to negotiate the contracts of various employees</li>
+  <li>Being able to correctly prepare and file government reports</li>
+   <li>Reviewing new business relationships with vendors and subcontractors</li>
+   <li>Guiding managers on regulatory and compliance matters</li>
+   <li>Being able to administer training to potential pupils</li>
+   <li>Creating employee handbooks</li>
+   <li>Being able to analyze legal issues</li>
+   <li>Being able to represent their corporation during numerous events (such as trials)</li>
+   <li>Being able to supervise other lawyers also hired to handle the legal aspects of a corporation's operations</li>
+   <li>Successfully being able to structure joint ventures or relationships with other corporations or organizations</li>
+   </ul>
+ <style>
+ table, th, td {border: 1px solid black;}
+ </style>
+<table style="width:100%">
+	<tr>
+		<th>Salary</th>
+		<th>Job Requirements</th>
+		<th>Job Growth</th>
+	</tr>
+	<tr>
+		<td>$60,000-$170,000</td>
+		<td>Three year Juris Doctor (J.D.) Degree<br>Enrollment in a 1 year Master of Law (L.L.M.) program (optional)<br>Pass the bar exam</td>
+		<td>6% for all layers (2014-2024)</td>
+	</tr>
+</table>
+<p>
+<center>
+Here is a video that essentially details what a corporate lawyer does and what the field is about:
+</center>
+</p>
+<div align=center>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/qH5dR__PiM4" frameborder="0" gesture="media">
+</iframe>
+</div>
+<p>
+	The field of corporate law can be overwhelming and seemingly competitive due to the community increasing in size annually.
+In essence, the duties of corporate lawyers are to make sure that all corporate transactions are legal while also being able to advise
+corporations on their legal rights and responsibilities. Corporate law requires knowledge of an array of aspects of business such as:
+contract law, tax law, and accounting, so it is not uncommon for some to double major in both law and business.
+	
+	Although many think that corporate law or just law in general requires people to become part of a large law firm, this is not always 
+the case. In fact, some corporate attorneys are able and have the flexibility to work from home (albeit many times these cases are for 
+smaller corporations). In addition, corporate attorneys can work with others and form a team.
+
+	Lastly, corporate law is a branch of law where many times attorneys do not actually have to go to trial. It is a facet of law that heavily
+depends upon the relationship between the lawyer and the corporation that they report to in order to achieve success. Whether it be advising 
+the corporation on terms and conditions of contracts or filing government reports for an organization, this field of law requires those who 
+have knowledge of business, can complete various duties, and are most importantly dedicated to their responsibilities as an attorney. 
+</p>
+<div align=center>
+If you want to learn more about this field, check out this page that details more of
+<a HREF="https://www.hg.org/corporate-law.html">corporate law.</a>
+</div>
+<p> Thanks for reading !!!
+<style type="text/css">
+P {font-family:Times New Roman}
+</style>
+</p>
+
+</html>
